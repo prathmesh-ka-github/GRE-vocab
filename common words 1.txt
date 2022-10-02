@@ -1,4 +1,4 @@
-Prevaricate
+revaricate
     - to speak in an evasive way
 
 Commensurate
@@ -44,9 +44,66 @@ Ingenuous
 Anomalous
     -not normal
 
-Iaconic
+Laconic
     -one who uses few words
 
 Impertinent
     -being direspectful; improperly forward
+
+Mercural
+    -prone to unexpected and unpredicted changes in mood
+
+Demur
+    -To take an objection or to show reluctance
+
+Aberration
+    -deviation from what is normal or expected
+
+Ambivalent
+    -mixed or conflicting emotions about something
+
+Innocous
+    -harmless and dosen't produce any ill effects
+
+Harangue
+    -a long pompous speech
+
+Wanting
+    -lacking (obvisly)
+
+Venerate
+    -to respect deeply
+
+Castigate
+    -to reprimand harshly
+
+Enervate
+    -to sap energy from
+
+Undermine
+    -to weaken
+
+Involved
+    -complicated
+
+Prevaricate
+    -to speak in an evasive way
+
+Maintain
+    -to assert
+
+Veracious
+    -truthful
+
+Censure
+    -to express strong dissaproval
+
+Vindicate
+    -to clear of any accusations, blame and sus
+
+Extant
+    -still in existence (usually refers to docs)
+
+Chastise
+    -to repremand harshly
 
