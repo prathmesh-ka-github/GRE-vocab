@@ -9,25 +9,44 @@ Restive
     -restless
 
 Galvanize
-    to excite or inspire someone to action
+    -to excite or inspire someone to action
     (inshort to motivate someone to do something)
 
 Qualify
-    to make less severe; to limit
+    -to make less severe; to limit
     (I think it is like )
 
 Intimate
-    to say something subtly
+    -to say something subtly
 
 Disinterested 
-    unbiased; neutral
+    -unbiased; neutral
     (Na idhar ka, Na udhar ka)
 
 Equivocal
-    confusing or ambiguous
+    -confusing or ambiguous
 
 Parochial
-    Narrowly restricted in scope or outlook
+    -Narrowly restricted in scope or outlook
 
 Belie
-    To give a false representation to; misrepresent
+    -To give a false representation to; misrepresent
+
+Amenable
+    -easily persuaded
+
+Amorphous
+    -shapeless
+
+Ingenuous
+    -Naive and innocent
+
+Anomalous
+    -not normal
+
+Iaconic
+    -one who uses few words
+
+Impertinent
+    -being direspectful; improperly forward
+
