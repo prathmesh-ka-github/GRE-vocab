@@ -74,7 +74,7 @@ Wanting
 Venerate
     -to respect deeply
 
-Castigate
+Castigate or Chastise
     -to reprimand harshly
 
 Enervate
@@ -104,6 +104,18 @@ Vindicate
 Extant
     -still in existence (usually refers to docs)
 
-Chastise
-    -to repremand harshly
+Ambiguous
+    -open to more than one interpretation or confusing
+    (It has more than one meaning)
 
+Calumny
+    -making of a false statement meant to injure a person's reputation
+
+Upbraid
+    -to reproach; to scold
+
+Venality
+    -the condition of being susceptible to bribes or corruption
+
+Gregarious
+    -to be likely to socialize with others
