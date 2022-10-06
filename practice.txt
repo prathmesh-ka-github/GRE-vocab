@@ -81,3 +81,40 @@ Censure
         -to express strong disapproval
     Censure
         -to express strong disapproval
+
+Innocuous
+    Innocuous
+        -harmless and doesn't produce any ill effects
+    Innocuous
+        -harmless and doesn't produce any ill effects
+    Innocuous
+        -harmless and dosen't produce any ill effects
+    Innocuous
+        -harmless and dosen't produce any ill effects
+    Innocuous
+        -harmless and dosen't produce any ill effects
+
+Egregious
+    Egregious
+        -standing out in a negative way; shockingly bad
+    Egregious
+        -standing out in a negative way; shockingly bad
+    Egregious
+        -standing out in a negative way; shockingly bad
+    Egregious
+        -stanging out in a negative way; shockingly bad
+    Egregious
+        -standing out in a negative way; shockingly bad
+
+Upbraid
+    Upbraid
+        -to reproach; to scold
+    Upbraid
+        -to reproach; to scold
+    Upbraid
+        -to reproach; to scold
+    Upbraid
+        -to reproach; to scold
+    Upbraid
+        -to reproach; to scold
+
