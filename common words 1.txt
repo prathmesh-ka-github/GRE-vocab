@@ -119,3 +119,6 @@ Venality
 
 Gregarious
     -to be likely to socialize with others
+
+Prevaricate-
+    -talk disrespectfully, improperly forward or bold
