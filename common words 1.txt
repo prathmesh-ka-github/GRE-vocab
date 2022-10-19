@@ -122,3 +122,6 @@ Gregarious
 
 Prevaricate-
     -talk disrespectfully, improperly forward or bold
+
+frugal
+    -spend money less but spending wisely
