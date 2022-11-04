@@ -39,3 +39,37 @@ Chortle -
 
 Preclude -
     Keep from arising or happening.
+
+Fortuitous -
+    Occuring by happy chance.
+
+Torpor -
+    Lack of lethargy/Energy/Enthusiasm.
+
+Volubility -
+    Talking or writing easily.
+
+Gossamer -
+    Unusual lightness or delicacy (delicate).
+
+Platitude -
+    Obvious remark.
+
+Querulous -
+    Habitually complaining.
+
+Apathetic -
+    Lack of interest.
+
+Impudent -
+    Improperly bold and forward.
+
+Vociferous -
+    Offensively loud.
+
+Dogmatic -
+    Highly opioniated.
+
+Culminate -
+    Reach the hughest point.
+
