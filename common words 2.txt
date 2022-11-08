@@ -73,3 +73,20 @@ Dogmatic -
 Culminate -
     Reach the hughest point.
 
+Perfidy -
+    Deliberate betrayal.
+
+Conspicous -
+    Completely obvious.
+
+Mitigate -
+    Make less severe or harsh.
+
+Audacious -
+    Willing to be bold in public.
+
+Eschew -
+    Avoid, to stay clear of.
+
+Mawkish -
+    Overly sentimental to the point that is disgusting.
