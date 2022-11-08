@@ -81,7 +81,6 @@ Censure
         -to express strong disapproval
     Censure
         -to express strong disapproval
-<<<<<<< HEAD
 
 Innocuous
     Innocuous
@@ -119,7 +118,6 @@ Upbraid
     Upbraid
         -to reproach; to scold
 
-=======
         
 Iconoclast
     Iconoclast
@@ -132,4 +130,3 @@ Iconoclast
         -the one who attacks cherished beliefs or institutions
     Iconoclast
         -the one who attacks cherished beliefs or institutions
->>>>>>> f2dd0459a7a7776183128374661a231dcdedbafa
