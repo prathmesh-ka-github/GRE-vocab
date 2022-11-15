@@ -10,4 +10,4 @@ The Total words learned -
     Basic words - 0
     Advanced words - 0
 ```
-Give a star to this repo! It means alot 🌟⭐
+Give a star to this repo! It means alot 🌟
