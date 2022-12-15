@@ -60,8 +60,4 @@ Mollify (Placate) - To make someone less angry. To calm someone.
 
 Circumvent - To find a way out of one's duties or obligations. To avoid given duties.
 
-<<<<<<< HEAD
-Denote - To represent something.
-=======
 Herectic - A person who holds unorthodox opinions. 
->>>>>>> a01a3cd6606486b8a827e5b7bb9f633960fe5b64
