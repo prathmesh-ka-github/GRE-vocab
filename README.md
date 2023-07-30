@@ -6,7 +6,7 @@ I used the magoosh's GRE Vocab prep app for this particular repository. I will t
 ```
 The Total words learned - 
 
-    Common words - 154
+    Common words - 204
     Basic words - 0
     Advanced words - 0
 ```
