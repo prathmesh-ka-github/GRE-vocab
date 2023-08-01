@@ -6,7 +6,7 @@ Abstruse - Difficult to understand; incomprehensible.
 
 Iconoclastic - Defying tradition or convention.
 
-Unscrupulous - Without scruples or principles.
+Unscrupulous - Without scruples or principles. Not honest or fair
 
 Bumbling - Lacking physical movement skills, especially with the hands.
 
@@ -24,8 +24,6 @@ Underscore - Give extra weight to (in a communication).
 
 Confound - to cause confusion.
 
-Adamant - Refusing to change one's mind.
-
 Incorrigible - Impervious to correction by punishment.
 
 Espouse - To adopt or support an idea or cause.
@@ -36,7 +34,7 @@ Soporific - Inducing mental lethargy; sleep inducing(boring).
 
 Construe - Interpreted in a particular way.
 
-Pendantic - marked by a sharp focus on or display of learning especially its trivial aspects.
+Pendantic - precise, exact, perfect, meticulous, marked by a sharp focus on or display of learning especially its trivial aspects.
 
 Myopic - Lacking foresight or imagination.
 
@@ -62,6 +60,8 @@ Exacting - erquiring and demanding accuracy.
 
 Intransigent - Unwilling to change one's beliefs or course of action.
 
+Adamant - Refusing to change one's mind.
+
 Copious - Abundant supply.
 
 Ingratiate - Gain favour with somebody by deliberate efforts.
@@ -70,3 +70,14 @@ Exalt - To praise or glorify.
 
 Implacable - Incapable of making less angry or hostile. unappeasable. unforgiving. unpacifiable.
 
+Admonitory - Serving to warn by scolding.
+
+Expound - Add details or explaination. state in depth.
+
+Denigrate - attack the good reputation of someone. Calumny.
+
+Largess - Extreme generosity. (Mr Beast)
+
+Abberant - Not normal.
+
+  
